@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+dist/
+
+# Jest
+coverage/
+
+# MongoDB
+*.log
+*.local
+*.lock
