@@ -1,5 +1,5 @@
 {
-  "name": "poo-node",
+  "name": "users-service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test:watch": "jest --watch",
     "test:test": "NODE_ENV=test jest"
   },
-  "author": "",
+  "author": "Matias Nurnberg",
   "license": "ISC",
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
